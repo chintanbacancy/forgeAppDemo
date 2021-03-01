@@ -1,0 +1,17 @@
+{
+  "name": "forgeapp",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^37.0.0",
+    "expo-auth-session": "~1.2.1",
+    "expo-random": "~8.1.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
+    "react-native-webview": "^11.2.3",
+    "react-navigation": "^1.0.0-beta.15"
+  }
+}
